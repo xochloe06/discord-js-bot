@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/saiteja-madha"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a>
+  <a href="https://github.com/eldertrapz"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a>
   <br>
-  Discord.js v14 Bot
+  Discord.js v17 Bot
   <br>
 </h1>
 
@@ -26,10 +26,8 @@
 
 ## 🔗 Resource Links
 
-- 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1013236808353599488&permissions=397602323830&scope=bot%20applications.commands)
-- 🤝 Support Server: [Join Here](https://discord.gg/2gPy75zgbW)
-- 📂 Documentation URL: [Visit Here](https://docs.strangebot.xyz)
-- 🐳 Docker Image: [Hub](https://hub.docker.com/r/saitejamadha/discord-js-bot)
+- 🤖 Bot: [Invite Here](https://bot.clampz7.net/)
+- 🤝 Support Server: [Join Here](https://support.clampz7.net/)
 
 ## 📦 Prerequisites
 
@@ -42,7 +40,7 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
+git clone https://github.com/eldertrapz/discord-js-bot.git
 cd discord-js-bot
 npm install
 ```
@@ -152,6 +150,5 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 
 <h1 align="center"> 🤝 Contributing 🤝 </h1>
 
-- Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
-- Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
-- You can keep track of all the planned features [here](https://github.com/saiteja-madha/discord-js-bot/projects) or make a request for one at our discord
+- Special thanks to [@eldertrapz](https://github.com/eldertrapz) for the [dashboard](https://github.com/eldertrapz) and his other cool discord bot projects
+- You can keep track of all the planned features [here](https://github.com/eldertrapz/discord-js-bot/projects) or make a request for one at our support https://support.clampz7.net/
